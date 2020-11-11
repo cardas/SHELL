@@ -24,6 +24,8 @@ or
 Type the following command to install the dialog command line utility under Debian or Ubuntu Linux:
 ### First Of All Use 
 - sudo apt-get update
+![install dialog bash](https://i.pinimg.com/originals/e1/e2/00/e1e2003af1f61a879e0063ec6dee5ccf.jpg)
+
 ### After That For:
 ### Ubuntu
 - sudo apt-get install dialog
