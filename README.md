@@ -46,7 +46,7 @@ Make sure you have Ubuntu or any other Linux distros installed.  Ubuntu will mou
 
 ### Now follow these steps
 
-- launch Ubuntu.
+- Launch Ubuntu or any other Linux distros installed.
 - Navigate to the folder using “cd” command to the folder where the scripts are available. (use cd and ls commands)
 - Type “./zmones.sh" or  "sh zmones.sh" or "bash zmones.sh” and hit enter.
 
