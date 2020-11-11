@@ -22,9 +22,9 @@ or
 ![install dialog bash](https://linuxcommand.org/images/adventure_dialog-mc.png)
 
 Type the following command to install the dialog command line utility under Debian or Ubuntu Linux:
-
+### First Of All Use 
 - sudo apt-get update
-
+### After That For:
 ### Ubuntu
 - sudo apt-get install dialog
 ### Debian
