@@ -49,6 +49,7 @@ Make sure you have Ubuntu or any other Linux distros installed.  Ubuntu will mou
 - Launch Ubuntu or any other Linux distros installed.
 - Navigate to the folder using “cd” command to the folder where the scripts are available. (use cd and ls commands)
 - Type “./zmones.sh" or  "sh zmones.sh" or "bash zmones.sh” and hit enter.
+#### zmones.sh i mean eq ==> zmones_LTU.sh or zmones_ENG.sh
 
 It will execute the script, and if they have a dependency on any of core Linux features.
 
