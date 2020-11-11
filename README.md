@@ -20,11 +20,12 @@ or
 ## Install dialog command
 Type the following command to install the dialog command line utility under Debian or Ubuntu Linux:
 
-sudo apt-get update
-sudo apt-get install dialog
+- sudo apt-get update
+- sudo apt-get install dialog
+
 Type the following command to install the dialog command line utility under CentOS or Redhat Linux:
 
-yum install dialog
+- yum install dialog
 
 ![install dialog bash](https://bash.cyberciti.biz/uploads/bashwiki/9/9e/Bash-shell-dialog-msgbox-output.png)
 
