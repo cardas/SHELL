@@ -1,5 +1,6 @@
 # How do I run .sh file shell script in Linux?
-
+# How do I Install dialog command?
+ 
 ![Bash Image](https://www.cyberciti.biz/media/new/faq/2007/09/how-do-i-run-.sh-files-on-linux-unix-system.001.jpeg)
 
 ## The procedure to run the .sh file shell script on Linux is as follows:
@@ -15,6 +16,17 @@ or
 ### sh script-name-here.sh
 or
 ### bash script-name-here.sh
+
+## Install dialog command
+Type the following command to install the dialog command line utility under Debian or Ubuntu Linux:
+
+sudo apt-get update
+sudo apt-get install dialog
+Type the following command to install the dialog command line utility under CentOS or Redhat Linux:
+
+yum install dialog
+
+![install dialog bash](https://bash.cyberciti.biz/uploads/bashwiki/9/9e/Bash-shell-dialog-msgbox-output.png)
 
 ## GUI method to run .sh file
 
