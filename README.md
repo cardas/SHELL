@@ -77,7 +77,7 @@ It will execute the script, and if they have a dependency on any of core Linux f
 
 ### How it locks like
 
-![Bash Image](img/ENG_Version.png)
+![Bash Image](img/Eng_Version.png)
 
 ![Bash Image](img/LTU_Version.png)
 
