@@ -75,5 +75,12 @@ Make sure you have Ubuntu or any other Linux distros installed.  Ubuntu will mou
 
 It will execute the script, and if they have a dependency on any of core Linux features.
 
+### How it locks like
+
+![Bash Image](img/ENG_Version.png)
+
+![Bash Image](img/LTU_Version.png)
+
+
 
 
